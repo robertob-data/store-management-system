@@ -111,7 +111,6 @@ Este projeto foi desenvolvido para demonstrar conhecimentos em:
 
 - Login de usuários
 - Controle de permissões
-- Emissão de comprovantes
 - Cadastro de clientes
 - Relatórios avançados
 - Backup automático
