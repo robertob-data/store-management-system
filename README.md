@@ -36,7 +36,7 @@ A proposta é oferecer uma interface simples, permitindo que comerciantes regist
 ---
 
 ## 📷 Demonstração
-[](apresentacao/apresentacao.mp4)
+![Demonstração do Projeto](apresentacao\apresentacao-ezgif.com-video-to-gif-converter.gif)
 
 
 ---
