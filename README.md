@@ -36,7 +36,8 @@ A proposta é oferecer uma interface simples, permitindo que comerciantes regist
 ---
 
 ## 📷 Demonstração
-<video controls src="apresentaçao/apresentaçao.mp4" title="Title"></video>
+[](apresentacao/apresentacao.mp4)
+
 
 ---
 
